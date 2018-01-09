@@ -25,7 +25,7 @@
     'data': [
         # 'security/ir.model.access.csv',
         'views/sale_order_view.xml',
-        'views/templates.xml',
+        'views/sale_order_rapport.xml',
     ],
     # only loaded in demonstration mode
     'demo': [
