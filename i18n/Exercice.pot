@@ -1,0 +1,52 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* exo
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 11.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-09 20:15+0000\n"
+"PO-Revision-Date: 2018-01-09 20:15+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: exo
+#: model:ir.model.fields,field_description:exo.field_sale_order_final_customer_id
+msgid "Client Final"
+msgstr ""
+
+#. module: exo
+#: model:ir.model.fields,field_description:exo.field_sale_order_delai_livraison
+msgid "Delai de Livraison"
+msgstr ""
+
+#. module: exo
+#: model:ir.model.fields,field_description:exo.field_sale_order_exercise
+msgid "Exercise"
+msgstr ""
+
+#. module: exo
+#: model:ir.model.fields,field_description:exo.field_sale_order_to_validate
+msgid "Prêt à valider"
+msgstr ""
+
+#. module: exo
+#: model:ir.model,name:exo.model_sale_order
+msgid "Quotation"
+msgstr ""
+
+#. module: exo
+#: model:ir.model.fields,field_description:exo.field_sale_order_remise_client
+msgid "Remise (%)"
+msgstr ""
+
+#. module: exo
+#: model:ir.ui.view,arch_db:exo.view_sale_order_exercice
+msgid "écrit votre exercice ici !"
+msgstr ""
+

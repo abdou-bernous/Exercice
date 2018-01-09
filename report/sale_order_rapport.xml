@@ -1,0 +1,19 @@
+<odoo>
+    <data>
+         <template id="sale.report_test_saleorder_document" inherit_id="sale.report_saleorder_document"> 
+      
+      <xpath expr="//table[@class='table table-condensed']//thead//tr" position="replace">
+
+		<div name="exercice" t-if="doc.exercise" class="col-xs-3">
+          
+       		   <strong>exercise:</strong>
+               
+   		  <p t-field="doc.exercise"/>
+             
+  		 </div>
+
+     </xpath>
+
+        </template> 
+    </data>
+</odoo>
